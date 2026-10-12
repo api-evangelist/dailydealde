@@ -1,0 +1,18 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/dailydealde/integrations
+- https://zapier.com/apps/dailydeal-de/integrations
+- https://n8n.io/integrations/dailydealde/
+- https://composio.dev/toolkits/dailydealde
+- https://monid.ai/tools/dailydealde
+checked:
+- https://composio.dev/toolkits/dailydealde
+- https://monid.ai/tools/dailydealde
+- https://n8n.io/integrations/dailydealde/
+- https://zapier.com/apps/dailydeal-de/integrations
+- https://zapier.com/apps/dailydealde/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
